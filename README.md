@@ -5,7 +5,7 @@ Name: `Allison Sladek`
 
 ONID ID: `sladeka`
 
-Link to my CS 290 page: `CS290_PAGE_URL`
+Link to my CS 290 page: `http://web.engr.oregonstate.edu/~sladeka/cs290/`
 
 This assignment is intended to get you up and running with some of the tools we'll be using in this course and also to get you to start using HTML.  It should be very straightforward.  It has two parts.
 
